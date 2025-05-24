@@ -19,7 +19,7 @@ This project features a fully interactive Excel dashboard built for retail sales
 ---
 
 ### 📁 Download the File:
-[🔗 Click here to download the dashboard (.xlsx)](./Retail_Sales_Dashboard_Mohan.xlsx)
+[🔗 Click here to download the dashboard (.xlsx)](./dashboard.xlsx)
 
 ---
 
